@@ -1,0 +1,6 @@
+name: Speed
+author: DerMaleko
+main: de.dermaleko.Speed
+version: 1.0
+commands:
+  speed:
